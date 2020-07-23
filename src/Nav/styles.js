@@ -11,9 +11,9 @@ export const UL = styled.ul`
       padding: 18px 10px;
     }
 
-    @media (max-width: 681px) {
+    @media (max-width: 768px) {
       flex-direction: column;
-      display: ${({ toggle }) => toggle ? 'block' : 'none'}
+      display: ${({ toggle }) => toggle ? 'block' : 'none'};
       background-color: #332F30;
       position: fixed;
       transform: ${({ toggle }) =>  toggle ? 'translateX(0)' : 'translateX(100%)'};
@@ -29,4 +29,15 @@ export const UL = styled.ul`
         padding: 10px 10px;
       }
     }
+
+    @media (max-width: 480px) {
+      height: 200px;
+      width: 100px;
+      padding: 50px 0 0 0;
+      font-size: 14px;
+     }
+
+     li {
+       padding: 5px 10px;
+     }
 `;

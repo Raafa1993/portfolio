@@ -12,11 +12,12 @@ export const StyledBurguer = styled.div`
      z-index: 20;
      display: none;
      
-     @media (max-width: 681px) {
+     @media (max-width: 768px) {
       display: flex;
       justify-content: space-around;
       flex-flow: column nowrap;
      }
+
 
      div {
        width: 2rem;
