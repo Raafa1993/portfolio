@@ -3,6 +3,8 @@ import logo from '../../src/assets/Logo.svg';
 
 import ProfileInfo from '../ProfileInfo';
 import Separator from '../Separator';
+import Sobre from '../Sobre';
+import Separator1 from '../Separator1';
 
 import Burguer from '../Nav/Burger/index';
 
@@ -20,6 +22,11 @@ const Main = () => {
 
     <ProfileInfo />
     <Separator />
+
+    <Sobre />
+    <Separator1 />
+
+    
   </Container>
   )
 }
