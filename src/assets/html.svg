@@ -1,1 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48px" height="48px"><path fill="#E65100" d="M41,5H7l3,34l14,4l14-4L41,5L41,5z"/><path fill="#FF6D00" d="M24 8L24 39.9 35.2 36.7 37.7 8z"/><path fill="#FFF" d="M24,25v-4h8.6l-0.7,11.5L24,35.1v-4.2l4.1-1.4l0.3-4.5H24z M32.9,17l0.3-4H24v4H32.9z"/><path fill="#EEE" d="M24,30.9v4.2l-7.9-2.6L15.7,27h4l0.2,2.5L24,30.9z M19.1,17H24v-4h-9.1l0.7,12H24v-4h-4.6L19.1,17z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="68" height="68" viewBox="0 0 68 68">
+  <g id="icons8-html-5" transform="translate(1.107 3.172)">
+    <circle id="Elipse_11" data-name="Elipse 11" cx="34" cy="34" r="34" transform="translate(-1.107 -3.172)" fill="#ff6d00"/>
+    <path id="Caminho_152" data-name="Caminho 152" d="M53.656,8.947H12.526l3.629,41.131,16.936,4.839,16.936-4.839L53.656,8.947Z" fill="#e65100"/>
+    <path id="Caminho_153" data-name="Caminho 153" d="M42.947,14.316V54.409l14.077-4.022,3.142-36.072Z" transform="translate(-9.055 -1.598)" fill="#ff6d00"/>
+    <path id="Caminho_154" data-name="Caminho 154" d="M42.947,38.345V33.318H53.756l-.88,14.454-9.929,3.268V45.761L48.1,44l.377-5.656ZM54.133,28.291l.377-5.027H42.947v5.027Z" transform="translate(-9.055 -4.261)" fill="#fff"/>
+    <path id="Caminho_155" data-name="Caminho 155" d="M38.1,45.761v5.279l-9.929-3.268-.5-6.913H32.7L32.947,44Zm-6.159-17.47H38.1V23.263H26.663l.88,15.082H38.1V33.318H32.319Z" transform="translate(-4.208 -4.261)" fill="#eee"/>
+  </g>
+</svg>

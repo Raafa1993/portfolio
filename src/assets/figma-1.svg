@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="68" height="68" viewBox="0 0 68 68">
+  <g id="figma-1" transform="translate(19.08 11.62)">
+    <circle id="Elipse_11" data-name="Elipse 11" cx="34" cy="34" r="34" transform="translate(-19.08 -11.62)" fill="#474142"/>
+    <path id="path0_fill" d="M7.46,60.253a7.463,7.463,0,0,0,7.46-7.46v-7.46H7.46a7.46,7.46,0,1,0,0,14.92Z" transform="translate(0 -15.493)" fill="#0acf83"/>
+    <path id="path1_fill" d="M0,30.127a7.463,7.463,0,0,1,7.46-7.46h7.46v14.92H7.46A7.463,7.463,0,0,1,0,30.127Z" transform="translate(0 -7.747)" fill="#a259ff"/>
+    <path id="path1_fill_1_" d="M0,7.46A7.463,7.463,0,0,1,7.46,0h7.46V14.92H7.46A7.463,7.463,0,0,1,0,7.46Z" fill="#f24e1e"/>
+    <path id="path2_fill" d="M22.667,0h7.46a7.46,7.46,0,0,1,0,14.92h-7.46Z" transform="translate(-7.747)" fill="#ff7262"/>
+    <path id="path3_fill" d="M37.587,30.127a7.46,7.46,0,1,1-7.46-7.46A7.463,7.463,0,0,1,37.587,30.127Z" transform="translate(-7.747 -7.747)" fill="#1abcfe"/>
+  </g>
+</svg>
