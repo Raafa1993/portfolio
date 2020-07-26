@@ -6,12 +6,12 @@ export const Container = styled.div`
   justify-content: space-around;
 
   width: 100%;
-  height: 480px;
+
+  margin: 120px 0;
 
   @media (max-width: 768px) {
     flex-direction: column;
 
-    height: 644px;
   }
 
 `;
@@ -22,7 +22,10 @@ export const WrapperFront = styled.div`
     /* width: 100%; */
     margin-left: -15px;
     margin-right: -15px;
-    margin: 0 auto;
+
+    @media (max-width: 460px) {
+      grid-template-columns: repeat(2, 1fr);
+    }
 `;
 
 
@@ -51,7 +54,10 @@ export const WrapperDesign = styled.div`
     /* width: 100%; */
     margin-left: -15px;
     margin-right: -15px;
-    margin: 0 auto;
+
+    @media (max-width: 768px) {
+      margin-top: 40px;
+    }
 `;
 
 export const Design = styled.div`

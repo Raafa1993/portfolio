@@ -7,11 +7,16 @@ export default createGlobalStyle`
     box-sizing: border-box;
 
     color: var(--title)
+
   }
 
   #root {
     max-width: 1024px;
     margin: 0 auto;
+  }
+
+  img {
+    max-width: 100%;
   }
 
   *, button, input {

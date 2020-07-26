@@ -6,6 +6,7 @@ import Separator from '../Separator';
 import Sobre from '../Sobre';
 import Separator1 from '../Separator1';
 import Habilidades from '../Habilidades';
+import Portfolio from '../Portfolio';
 
 import Burguer from '../Nav/Burger/index';
 
@@ -28,6 +29,8 @@ const Main = () => {
     <Separator1 />
 
     <Habilidades />
+
+    <Portfolio />
     
   </Container>
   )
