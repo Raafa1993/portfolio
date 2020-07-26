@@ -3,7 +3,7 @@ import styled from 'styled-components';
 
 export const Container = styled.div`
   display: flex;
-  align-items: center;
+  align-self: center;
   justify-content: space-between;
   padding: 60px 0;
 `;
@@ -14,6 +14,10 @@ export const Avatar = styled.div`
 
   img {
     width: 100%;
+  }
+
+  @media (max-width: 650px) {
+    display: none;
   }
 `;
 

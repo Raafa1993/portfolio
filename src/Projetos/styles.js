@@ -61,12 +61,41 @@ export const Projeto = styled.div`
   margin: 10px;
   box-shadow: 0 5px 8px 3px rgb(0 0 0 / 80%);
 
+  position: relative;
+  
 
   img {
     height: -webkit-fill-available;
     display: flex;
     align-items: center;
     margin: 0 auto;
+
+  }
+
+  div {
+    position: absolute;
+    
+    width: 296px;
+    /* height: 50px; */
+    background-color: rgb(0 0 0 / 70%);
+    top: 90px;
+    left: 0px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 8px;
+
+    strong {
+      font-size: 24px;
+      font-weight: bold;
+
+      color: #fff;
+    }
+
+    p {
+      font-family: 'Montserrat';
+      font-size: 18px;
+      color: #B4BEBF;
+    }
   }
 
 `;

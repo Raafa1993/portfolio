@@ -19,4 +19,5 @@ export const Header = styled.div`
   background-color: var(--primary);
   box-shadow: 0 2px 15px 2px rgba(0,0,0,.3);
   z-index: 30;
+
 `;

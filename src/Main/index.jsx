@@ -7,6 +7,7 @@ import Sobre from '../Sobre';
 import Separator1 from '../Separator1';
 import Habilidades from '../Habilidades';
 import Portfolio from '../Portfolio';
+import Contato from '../Contato';
 
 import Burguer from '../Nav/Burger/index';
 
@@ -31,6 +32,8 @@ const Main = () => {
     <Habilidades />
 
     <Portfolio />
+
+    <Contato />
     
   </Container>
   )

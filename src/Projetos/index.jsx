@@ -12,22 +12,46 @@ const HabilidadeFront = () => {
       
         <WrapperProject>
           <Projeto>
-            <img src={FlexBlog} alt="html"/>
+           <a href="/"><img src={FlexBlog} alt="html"/></a>
+           <div>
+              <strong>Animias Fantastico</strong>
+              <p>Origamid</p>
+            </div>
           </Projeto>
           <Projeto>
             <img src={Animais} alt="Css"/>
+            <div>
+              <strong>Animias Fantastico</strong>
+              <p>Origamid</p>
+            </div>
           </Projeto>
           <Projeto>
             <img src={Ecoleta} alt="Javascript"/>
+            <div>
+              <strong>Animias Fantastico</strong>
+              <p>Origamid</p>
+            </div>
           </Projeto>
           <Projeto>
             <img src={Ecoleta} alt="html"/>
+            <div>
+              <strong>Animias Fantastico</strong>
+              <p>Origamid</p>
+            </div>
           </Projeto>
           <Projeto>
             <img src={Animais} alt="Css"/>
+            <div>
+              <strong>Animias Fantastico</strong>
+              <p>Origamid</p>
+            </div>
           </Projeto>
           <Projeto>
             <img src={Ecoleta} alt="Javascript"/>
+            <div>
+              <strong>Animias Fantastico</strong>
+              <p>Origamid</p>
+            </div>
           </Projeto>
         </WrapperProject>
          
