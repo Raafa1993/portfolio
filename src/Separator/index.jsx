@@ -6,8 +6,12 @@ const Separator = () => {
   return (
     <Container>
         <div>
-         <GithubIcon />
-          <LinkedinIcon />
+          <a href="https://github.com/Raafa1993">
+            <GithubIcon />
+          </a>
+          <a href="https://www.linkedin.com/in/rafaelasilva1993/">
+            <LinkedinIcon />
+          </a>
         </div>
     </Container>
   )

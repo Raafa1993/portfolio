@@ -12,46 +12,52 @@ const HabilidadeFront = () => {
       
         <WrapperProject>
           <Projeto>
-           <a href="/"><img src={FlexBlog} alt="html"/></a>
+           <a href="/"><img src={FlexBlog} alt="html"/>
            <div>
               <strong>Animias Fantastico</strong>
               <p>Origamid</p>
             </div>
+            </a>
           </Projeto>
           <Projeto>
-            <img src={Animais} alt="Css"/>
-            <div>
+          <a href="/"><img src={Animais} alt="html"/>
+           <div>
               <strong>Animias Fantastico</strong>
               <p>Origamid</p>
             </div>
+            </a>
           </Projeto>
           <Projeto>
-            <img src={Ecoleta} alt="Javascript"/>
-            <div>
+          <a href="/"><img src={Ecoleta} alt="html"/>
+           <div>
               <strong>Animias Fantastico</strong>
               <p>Origamid</p>
             </div>
+            </a>
           </Projeto>
           <Projeto>
-            <img src={Ecoleta} alt="html"/>
-            <div>
+          <a href="/"><img src={Animais} alt="html"/>
+           <div>
               <strong>Animias Fantastico</strong>
               <p>Origamid</p>
             </div>
+            </a>
           </Projeto>
           <Projeto>
-            <img src={Animais} alt="Css"/>
-            <div>
+          <a href="/"><img src={FlexBlog} alt="html"/>
+           <div>
               <strong>Animias Fantastico</strong>
               <p>Origamid</p>
             </div>
+            </a>
           </Projeto>
           <Projeto>
-            <img src={Ecoleta} alt="Javascript"/>
-            <div>
+          <a href="/"><img src={Ecoleta} alt="html"/>
+           <div>
               <strong>Animias Fantastico</strong>
               <p>Origamid</p>
             </div>
+            </a>
           </Projeto>
         </WrapperProject>
          

@@ -60,29 +60,31 @@ export const Projeto = styled.div`
   border-radius: 5px;
   margin: 10px;
   box-shadow: 0 5px 8px 3px rgb(0 0 0 / 80%);
-
   position: relative;
   
-
   img {
     height: -webkit-fill-available;
     display: flex;
     align-items: center;
     margin: 0 auto;
-
   }
 
   div {
     position: absolute;
-    
     width: 296px;
-    /* height: 50px; */
-    background-color: rgb(0 0 0 / 70%);
+    background-color: rgb(0 0 0);
     top: 90px;
     left: 0px;
     text-align: center;
     padding: 10px;
     border-radius: 8px;
+
+    opacity: 0.5;
+    transition: 0.5s;
+
+    &:hover {
+      opacity: 0.7;
+    }
 
     strong {
       font-size: 24px;

@@ -8,7 +8,7 @@ const Habilidades = () => {
   return (
     <Container>
         <Info>
-          <h1>Sobre</h1>
+          <h1>Contato</h1>
         </Info>
 
         <ContatoInfo />
